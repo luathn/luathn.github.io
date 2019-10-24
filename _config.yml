@@ -20,7 +20,7 @@ title                    : "LuatHN's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Luat Hoang"
-description              : "Just a blog"
+description              : "Just a personal Blog"
 url                      : "https://luathn.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "luathn/luathn.github.io"
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-    theme                : github-light # "github-light" (default), "github-dark"
+    theme                : "github-light" # "github-light" (default), "github-dark"
     issue_term           : "pathname"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -232,6 +232,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -240,6 +241,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 
 # Archives

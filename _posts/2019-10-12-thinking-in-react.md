@@ -1,10 +1,10 @@
 ---
 title: "Thinking in react"
 categories:
-  - Post Formats
+  - reactjs
+  - newbie
 tags:
-  - Post Formats
-  - quote
+  - reactjs
 ---
 React is, in our opinion, the premier way to build big, fast Web apps with JavaScript. It has scaled very well for us at
 Facebook and Instagram.
